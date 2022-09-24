@@ -1,5 +1,7 @@
 # Data Lake
 
+<img src="https://github.com/lvgalvao/data-lake/blob/main/src/picture2.png?raw=true" alt="DataLakeVsDataWaresouse" style="height: 100px; width:200px;"/>
+
 ### This repository aims to show some uses for a data lake, how is it different from a data warehouse, and the various options for implementing it on AWS
 
 ### Data Lakes, Why?
