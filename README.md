@@ -1,6 +1,6 @@
 # Data Lake
 
-### This repository aims to shows some uses for a data lake, how is it different from a data warehouse and the various options for implamenting it on AWS
+### This repository aims to show some uses for a data lake, how is it different from a data warehouse and the various options for implamenting it on AWS
 
 ### Data Lakes, Why?
 
